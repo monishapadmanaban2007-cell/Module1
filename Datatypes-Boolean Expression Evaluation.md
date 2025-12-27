@@ -1,6 +1,7 @@
 
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
-
+## NAME: MONISHA P
+## REF NO: 25018486
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
@@ -15,7 +16,20 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+a=9==True
+b=False==False
+c=True+True
+d=False+9
+print("a is:",a)
+print("b is:",b)
+print("c is:",c)
+print("d is:",d)
+
 
 ## Output
+a is:False
+b is:True
+c is: 2
+d is: 9
 ## Result
+Thus, the Python program to evaluate and print the results of boolean and arithmetic expressions involving True and False was successfully executed and the results were verified.
